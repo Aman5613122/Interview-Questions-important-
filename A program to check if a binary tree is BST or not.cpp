@@ -1,5 +1,5 @@
 // there is two method to solve this question.
-// I code for both of them.
+// I coded for both of them.
 
 //1.By using min and max node which check the root->left and root->right conditions, if this satisfy all the conditions then it return 1 otherwise 0.
 
